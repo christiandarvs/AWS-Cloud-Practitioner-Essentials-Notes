@@ -1,1 +1,1 @@
-# AWS-Cloud-Practitioner-Essentials-Notes
+# AWS Cloud Practitioner Essentials Notes
